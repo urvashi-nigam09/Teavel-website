@@ -1,4 +1,4 @@
-# Teavel-website
+# Travel-website
 
 Introduction
 
